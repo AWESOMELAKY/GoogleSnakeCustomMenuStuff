@@ -553,3 +553,4 @@ window.snake.more_menu = function(e) {
     req.send();
   }
 };
+window.snake.more_menu(1);
